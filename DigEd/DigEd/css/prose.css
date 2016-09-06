@@ -1,0 +1,189 @@
+body {
+	background-color: #ffffff;
+}
+a {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #000;
+}
+a:link {
+}
+a:visited {
+}
+a:active {
+}
+a:hover {
+	text-decoration: none;
+	color: #396A91;
+}
+hr {
+/*display: none;*/
+}
+h1 {
+	color: #46597D;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 1.8em;
+	font-weight: normal;
+}
+h2 {
+	color: #46597D;
+/*font-family: Garamond, Times New Roman, Times, serif;*/
+	font-size: 1.5em;
+	margin: 1.2em 0em 1.2em 0em;
+	font-weight: normal;
+}
+h3 {
+	color: #46597D;
+	font-size: 1.4em;
+	font-weight: normal;
+}
+h4 {
+	color: #46597D;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+h5 {
+	color: #46597D;
+	font-size: 1.0em;
+	font-weight: bold;
+}
+h6 {
+	color: #46597D;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+div.teidiv > h2:first-child {
+/*background: red;*/
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+ol {
+	font-size: 1.0em;
+	line-height: 1.8em;
+}
+ul {
+	font-size: 1.0em;
+	line-height: 1.8em;
+}
+p, tr, td {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 1.0em;
+	line-height: 1.8em;
+	padding: 1em;
+}
+div.p {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 1.0em;
+	line-height: 1.8em;
+	padding: 1em;
+}
+div.blockquote {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 1.0em;
+	line-height: 1.8em;
+	margin-left: 5em;
+	margin-right: 5em;
+	letter-spacing: 0.3px;
+}
+.blockquote {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 1.0em;
+	line-height: 1.8em;
+	margin-left: 5em;
+	margin-right: 5em;
+	letter-spacing: 0.3px;
+}
+/*
+  blockquote {
+  font-size: .9em;
+  line-height: 1.5em;
+  }
+ */
+ 
+ .indent1 {
+     margin-left: 3em;
+ }
+ 
+  .indent2 {
+     margin-left: 5em;
+ }
+.notes {
+	font-size: .9em;
+	line-height: 1.5em;
+}
+.p4toc {
+	font-size: 1.0em;
+	line-height: 1.8em;
+	margin: 1.2em 0em 1.2em 2em;
+}
+.hang {
+	font-size: .9em;
+	line-height: 1.5em;
+	margin-left: 30px;
+	text-indent: -30px;
+}
+.prwc {
+	margin-left: 30px;
+	text-indent: -30px;
+}
+.breadcrumb {
+	font-size: .8em;
+}
+.toctitles {
+	color: #46597D;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.syllindent {
+	margin-left: 15em;
+}
+.tableleft {
+	float: left;
+	margin-left: 4em;
+	width: 40%;
+}
+.schedule {
+	clear: both;
+}
+.table {
+	float: left;
+	margin-left: 4em;
+	padding: 1em 1em 2em 1em;
+}
+.tablemid {
+	float: right;
+	margin-right: 35%;
+}
+.epigcit {
+	margin-left: 55%;
+}
+.tocitems {
+	margin-left: 7em;
+}
+.blockleft {
+	margin-left: .1em;
+	width: 45%;
+	float: left;
+}
+.blockright {
+	margin-right: .1em;
+	width: 25%;
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	line-height: 12pt;
+	text-align: center;
+	text-indent: 0pt;
+	text-decoration: none
+}
+
+.titlem {
+	font-style: italic;
+}
+.titlej {
+	font-style: italic;
+}

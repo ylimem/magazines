@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+   <ab xmlns="http://www.tei-c.org/ns/1.0"/>
+   <body xmlns="http://www.tei-c.org/ns/1.0"/>
+   <castGroup xmlns="http://www.tei-c.org/ns/1.0"/>
+   <castItem xmlns="http://www.tei-c.org/ns/1.0"/>
+   <castList xmlns="http://www.tei-c.org/ns/1.0"/>
+   <div xmlns="http://www.tei-c.org/ns/1.0"/>
+   <front xmlns="http://www.tei-c.org/ns/1.0"/>
+   <head xmlns="http://www.tei-c.org/ns/1.0"/>
+   <l xmlns="http://www.tei-c.org/ns/1.0"/>
+   <lg xmlns="http://www.tei-c.org/ns/1.0"/>
+   <role xmlns="http://www.tei-c.org/ns/1.0"/>
+   <roleDesc xmlns="http://www.tei-c.org/ns/1.0"/>
+   <sp xmlns="http://www.tei-c.org/ns/1.0"/>
+   <speaker xmlns="http://www.tei-c.org/ns/1.0"/>
+   <stage xmlns="http://www.tei-c.org/ns/1.0"/>
+</elements>
